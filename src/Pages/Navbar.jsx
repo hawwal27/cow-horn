@@ -97,7 +97,7 @@ const Navbar = () => {
         </div>
       </div>
 
- e      {/* Mobile Menu */}
+       {/* Mobile Menu */}
       
       {mobileMenuOpen && (
         <div className="md:hidden bg-white px-4 pb-4 space-y-2 text-amber-600 text-sm font-bold">
